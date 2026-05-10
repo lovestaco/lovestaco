@@ -127,3 +127,5 @@ if (codeWorking){
 </p>
 
 [![](https://visitcountpro.netlify.app/api?id=lovestaco&pretty=true)](https://linktr.ee/maneshwar)
+
+[![maneshwar profile views](https://u8views.com/api/v1/github/profiles/66487268/views/day-week-month-total-count.svg)](https://u8views.com/github/lovestaco)
